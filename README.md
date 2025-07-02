@@ -1,5 +1,6 @@
 # CS6750 Final Prototype
 <p>This is the final project prototype for William Watson (<a href="mailto:wwatson43@gatech.edu">wwatson43@gatech.edu</a>) for Georgia Tech class CS6750 Human Computer Interaction.</p>
+<p>The live prototype is available at <a href="https://williamdwatson.github.io/cs6750-final-prototype/" target="_blank">https://williamdwatson.github.io/cs6750-final-prototype/</a></p>
 <p>The video walkthrough is available at <a href="https://youtu.be/6IKHLS1aIg4" target="_blank">https://youtu.be/6IKHLS1aIg4</a></p>
 <p>
   This prototype uses the following libraries or portions of code from them, all under the MIT license:
